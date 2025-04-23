@@ -16,6 +16,6 @@ This project explores:
 
 ## ⚙️ Installation
 ```bash
-git clone https://github.com/your-username/Quantum-K-Means-Clustering.git
+git clone https://github.com/Mohamed-El-youzghi/Quantum-K-Means-Clustering.git
 cd Quantum-K-Means-Clustering
 pip install -r requirements.txt
